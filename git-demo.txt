@@ -1,4 +1,3 @@
 Test git-demo
 Test git pull
 Test git GUI
-Test git revert
